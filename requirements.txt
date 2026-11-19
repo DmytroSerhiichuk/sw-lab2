@@ -1,0 +1,12 @@
+google-genai
+pydantic>=2
+python-dotenv
+numpy
+scikit-learn
+networkx
+python-louvain
+matplotlib
+pyvis
+requests
+pandas
+jupyter
